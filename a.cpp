@@ -6,5 +6,5 @@ int main()
 }
 
 int main() {
-	printf("Hello, World\n");
+	printf("Hello, World, Goodbey\n");
 }
