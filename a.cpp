@@ -3,5 +3,6 @@
 int main()
 {
 	std::cout << "Aram jan" << std::endl;
-	return 0;
+	std::cout << "WTF" << std::endl;
+    return 0;
 }
